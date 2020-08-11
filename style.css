@@ -25,6 +25,10 @@ button {
   cursor: pointer;
 }
 
+hubcap-recorder {
+  float: left;
+}
+
 button:hover {
   background-color: #3e8e41;
 }
